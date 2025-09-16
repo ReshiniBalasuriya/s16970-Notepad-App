@@ -28,6 +28,7 @@ It supports basic text editing, file operations, and customization features such
 ##  Screenshot
 
 Here’s what the app looks like when running:
+
 <img width="982" height="703" alt="Simple Notepad 9_16_2025 6_25_46 PM" src="https://github.com/user-attachments/assets/d9cfb2f3-c3e5-4f1e-9f6d-36569a49a422" />
 
 
